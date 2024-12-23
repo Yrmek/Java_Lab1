@@ -1,0 +1,2 @@
+module laba_1 {
+}
